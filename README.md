@@ -1,8 +1,8 @@
 # Next Door Hub - An Online Auction System in Java
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-Blue"> <img alt="Static Badge" src="https://img.shields.io/badge/OOPM-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/JSP-Blue"> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-Blue"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Mini_Project-Blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/OOPM-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/JSP-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Mini_Project-blue">
 
-**`The project has been developed using the eclipse Integrated Development Environment.`**
+**`The project has been developed in the second year as part of academic mini-project.`**<br>`Built using the Eclipse IDE.`
 
 `Instructions`:
 - [x] `In Eclipse IDE, under the new project section , select the dynamic web project option, and give a name to the project, in this case TheNextDoorHub.`
